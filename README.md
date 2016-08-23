@@ -1,6 +1,7 @@
 # delivery-apolo6
 Sofía se encuentra en su casa y ya es la hora de la cena, como no tiene ganas de cocinar decide pedir
 un delivery de su restaurante favorito (ese del que siempre pide cuando siente pereza) asi que sigue el siguiente diagrama: 
+
 1. Inicio
 2.  Coge su teléfono
 3.  Busca el número
